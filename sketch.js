@@ -41,10 +41,7 @@ function draw() {
 	fill("black");
 	rect(148, 230, 105, 5);
 	
-	// mouth
-	fill("pink");
-	arc(200, 250, 90, 90, 0, HALF_PI);
-	arc(200, 250, 90, 90, HALF_PI, PI);
+	
 	}
 	
 	
