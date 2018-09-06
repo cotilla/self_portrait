@@ -26,8 +26,8 @@ function draw() {
 	
 	// eyes_pupil
 	fill("black");
-	ellipse(150, 150, 40, 40);
-	ellipse(250, 150, 40, 40);
+	ellipse(150, 150, 20, 20);
+	ellipse(250, 150, 20, 20);
 	
 	// nose
 	fill("black");
