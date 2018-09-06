@@ -21,8 +21,8 @@ function draw() {
 	
 	// eyes
 	fill("white");
-	ellipse(150, 150, 50, 85);
-	ellipse(250, 150, 50, 85);
+	ellipse(150, 150, 50, 55);
+	ellipse(250, 150, 50, 55);
 	
 	// eyes_pupil
 	fill("black");
