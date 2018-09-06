@@ -39,7 +39,7 @@ function draw() {
 	
 	// muststash
 	fill("black");
-	rect(148, 230, 105, 5, 0);
+	rect(148, 230, 105, 5, 10);
 	
 	
 	}
