@@ -6,7 +6,7 @@ function draw() {
 	background(220);
 	
 	// ears
-	fill("saddlebrown");
+	fill("khaki");
 	ellipse(100, 150, 100, 100);
 	ellipse(300, 150, 100, 100);
 	
